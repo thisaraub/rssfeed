@@ -1,0 +1,39 @@
+Japanese Media Websites:
+
+xTECH:
+https://xtech.nikkei.com/ 
+
+itmedia:
+https://www.itmedia.co.jp/enterprise/ 
+https://built.itmedia.co.jp/ 
+
+
+RSS Feed URLs:
+
+Alpha Southeast Asia RSS Feed:
+https://alphasoutheastasia.com/feed/
+
+Southeast Asia Globe RSS Feed:
+https://southeastasiaglobe.com/feed/
+
+Kyoto Review of Southeast Asia RSS Feed:
+https://kyotoreview.org/feed/
+
+The Diplomat » Southeast Asia RSS Feed:
+https://thediplomat.com/regions/southeast-asia//feed
+
+ASEAN RSS Feed:
+https://asean.org/category/news/feed/
+
+Benar News RSS Feed:
+https://www.benarnews.org/english/RSS
+
+TechCrunch » Southeast Asia RSS Feed:
+https://techcrunch.com/tag/southeast-asia/feed/
+
+Financial Times » South-East Asia RSS Feed:
+https://www.ft.com/south-east-asia?format=rss
+
+Brookings » Southeast Asia RSS Feed:
+brookings.edu/feed
+

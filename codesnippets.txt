@@ -1,0 +1,17 @@
+# Define RSS feeds for ASEAN news ------------------------------------------------------------------------------------------------
+
+rss_feeds = {
+    "Alpha Southeast Asia": "https://alphasoutheastasia.com/feed/",
+    "Southeast Asia Globe": "https://southeastasiaglobe.com/feed/",
+    "Kyoto Review": "https://kyotoreview.org/feed/",
+    "The Diplomat": "https://thediplomat.com/regions/southeast-asia/feed/",
+    "ASEAN.org": "https://asean.org/category/news/feed/",
+    "TechCrunch: Southeast Asia": "https://techcrunch.com/tag/southeast-asia/feed/",
+    "Financial Times: South-East Asia": "https://www.ft.com/south-east-asia?format=rss",
+}
+
+
+# to input logo ------------------------------------------------------------------------------------------------
+
+st.logo("assets/ant.png", size="large", link=None, icon_image=None)
+
