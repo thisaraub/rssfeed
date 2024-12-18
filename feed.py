@@ -37,7 +37,7 @@ rss_feeds = {
     "The Diplomat": "https://thediplomat.com/regions/southeast-asia/feed/",
     "ASEAN.org": "https://asean.org/category/news/feed/",
     "TechCrunch: Southeast Asia": "https://techcrunch.com/tag/southeast-asia/feed/",
-    "Financial Times: South-East Asia": "https://www.ft.com/south-east-asia?format=rss",
+    # "Financial Times: South-East Asia": "https://www.ft.com/south-east-asia?format=rss",
 }
 
 menu_options = ["News Sources", "Saved Articles"]
