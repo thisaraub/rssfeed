@@ -40,11 +40,12 @@ rss_feeds = {
     # "Financial Times: South-East Asia": "https://www.ft.com/south-east-asia?format=rss",
 }
 
+st.logo("assets/ant.png", size="large", link=None, icon_image=None)
+
 menu_options = ["News Sources", "Saved Articles"]
 selected_menu = st.sidebar.radio("Choose an option:", menu_options)
 
 if selected_menu == "News Sources":
-    st.logo("assets/ant.png", size="large", link=None, icon_image=None)
 
     selected_feed = st.sidebar.radio("Choose a news source:", list(rss_feeds.keys()))
 
@@ -73,6 +74,7 @@ if selected_menu == "News Sources":
                 st.write(f"**Snippet:** {snippet}")
 
                 if st.button("Save Article", key=f"save_{entry.link}"):
+
                     if {
                         "title": entry.title,
                         "link": entry.link,
